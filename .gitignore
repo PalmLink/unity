@@ -1,0 +1,18 @@
+#unity
+BleWinrtDll\ Unity/.vsconfig
+BleWinrtDll\ Unity/unity/.csproj
+BleWinrtDll\ Unity/.idea
+BleWinrtDll\ Unity/.vs
+BleWinrtDll\ Unity/.vscode
+BleWinrtDll\ Unity/Library/*
+BleWinrtDll\ Unity/Logs/*
+BleWinrtDll\ Unity/obj/*
+BleWinrtDll\ Unity/Packages/*
+BleWinrtDll\ Unity/Build/*
+
+
+#build
+build/*
+
+#except
+!build/PalmLink.sln
